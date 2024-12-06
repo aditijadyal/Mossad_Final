@@ -1,1 +1,1 @@
-Read me file for devsecops project
+Mossad's DevSecOps Project
